@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-A third-year student at Matana University, majoring in Computer Science with a strong passion for Web development and Mobile development. Develop a website with PHP framework Codeigniter and Laravel. I'm currently learning about cloud technology and back-end
+A third-year student at Matana University, majoring in Computer Science with a strong passion for Web development and Mobile development. Develop a website with PHP framework Codeigniter and Laravel.
 
-<!-- - 🔭 I’m currently studying at Matana University majoring in Computer Science --!>
 - 🌱 I’m currently learning Backend development & Mobile development
 - ☕ I'm a coffee lover
 - 😺&🐶 Cat & Dog lover
+<!-- - 🔭 I’m currently studying at Matana University majoring in Computer Science --!>
+
 
 <p align="left">
 <a href="https://github.com/robertheo15">
