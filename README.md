@@ -22,3 +22,8 @@ A third-year student at Matana University, majoring in Computer Science with a s
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --!>
+
+### Reach me on
+- <a href="https://www.linkedin.com/in/robertheo-rt/">LinkedIn</a>
+- robertheo.rt@gmail.com
+- <a href="https://twitter.com/robert_theeo">Twitter</a>
