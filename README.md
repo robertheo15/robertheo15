@@ -5,7 +5,7 @@ A third-year student at Matana University, majoring in Computer Science with a s
 - 🌱 I’m currently learning Backend development & Mobile development
 - ☕ I'm a coffee lover
 - 😺&🐶 Cat & Dog lover
-<!-- - 🔭 I’m currently studying at Matana University majoring in Computer Science --!>
+- 🔭 I’m currently studying at Matana University majoring in Computer Science
 
 
 <p align="left">
@@ -15,6 +15,11 @@ A third-year student at Matana University, majoring in Computer Science with a s
 </a>
 </p>
 
+### Reach me on
+- <a href="https://www.linkedin.com/in/robertheo-rt/" target="_blank">LinkedIn</a>
+- robertheo.rt@gmail.com
+- <a href="https://twitter.com/robert_theeo" target="_blank">Twitter</a>
+
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -23,7 +28,4 @@ A third-year student at Matana University, majoring in Computer Science with a s
 - ⚡ Fun fact: ...
 --!>
 
-### Reach me on
-- <a href="https://www.linkedin.com/in/robertheo-rt/">LinkedIn</a>
-- robertheo.rt@gmail.com
-- <a href="https://twitter.com/robert_theeo">Twitter</a>
+
