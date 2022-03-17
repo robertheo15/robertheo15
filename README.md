@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A third-year student at Matana University, majoring in Computer Science with a strong passion for Web development and Mobile development. Develop a website with PHP framework Codeigniter and Laravel.
+I am a third-year student at Matana University, majoring in Computer Science with a strong passion for Web development and Mobile development. I develop a website with PHP framework Codeigniter and Laravel. I'm currently learning about mobile development with kotlin and back-end with java spring-boot
 
 - 🌱 I’m currently learning Backend development & Mobile development
 - ☕ I'm a coffee lover
