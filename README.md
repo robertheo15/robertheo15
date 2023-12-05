@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I am a final year student at Matana University, majoring in Computer Science with a strong passion for Web development and Mobile development. I'm currently learning about mobile development with kotlin and back-end. With hard and soft skills I have learned, used, and polished over the last few years, I would like to pursue and deep dive even further as a software engineer.
+I'm a fresh graduate from Matana University, majoring in Computer Science with a strong passion for Web development and Mobile development. I'm currently learning about mobile development with kotlin and back-end. With hard and soft skills I have learned, used, and polished over the last few years, I would like to pursue and deep dive even further as a software engineer.
 
-- 🌱 I’m currently learning Backend development & Mobile development
+- 🌱 Backend and Mobile enthusiast
 - ☕ I'm a coffee lover
 - 😺&🐶 Cat & Dog lover
-- 🔭 I’m currently studying at Matana University majoring in Computer Science
+- 🔭 Currently working as a Backend Engineer
+- ⚡ Discord Manager @Google Developer Community: Indonesia
 
 
 <p align="left">
