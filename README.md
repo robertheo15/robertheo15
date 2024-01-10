@@ -6,7 +6,7 @@ I'm a fresh graduate from Matana University, majoring in Computer Science with a
 - ☕ I'm a coffee lover
 - 😺&🐶 Cat & Dog lover
 - 🔭 Currently working as a Backend Engineer
-- ⚡ Discord Manager @Google Developer Community: Indonesia
+- ⚡ Discord Manager @Google Developer Community: Indonesia, Former lead Google DSC @Matana University
 
 
 <p align="left">
