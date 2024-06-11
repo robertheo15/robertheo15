@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a fresh graduate from Matana University, majoring in Computer Science with a strong passion for back-end engineering and cloud computing. I'm currently learning about back-end with Golang and cloud computing. With hard and soft skills I have learned, used, and polished over the last few years, I would like to pursue and deep dive even further as a software engineer.
+As a Computer Science graduate from Matana University with one year of experience in backend engineering, I have developed a strong foundation in software engineering, cloud computing, and system design. I'm currently learning about cloud computing and system design. With hard and soft skills, I have learned, used, and polished over the last few years, I would like to pursue and deep dive even further as a software engineer.
 
 - 🌱 Back-end and Cloud Computing Enthusiast
 - ☕ I'm a coffee lover
