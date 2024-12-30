@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-As a Computer Science graduate from Matana University with one year of experience in backend engineering, I have developed a strong foundation in software engineering, cloud computing, and system design. I'm currently learning about cloud computing and system design. With hard and soft skills, I have learned, used, and polished over the last few years, I would like to pursue and deep dive even further as a software engineer.
+Highly motivated and results-oriented backend engineer with 1+ years of experience building scalable and reliable systems using Golang and GCP. Passionate about learning new technologies and contributing to innovative solutions. I am seeking a challenging role where I can leverage my skills to make a significant impact.
+
+Actively expanding my knowledge of cloud computing (GCP) and system design (Event Architecture) to further enhance my backend engineering capabilities.
 
 - 🌱 Back-end and Cloud Computing Enthusiast
 - ☕ I'm a coffee lover
-- 😺 & 🐶 Cat & Dog lover
+- 😺 & 🐶 lover
 - 🔭 Currently working as a Backend Engineer
-- ⚡ Discord Manager @Google Developer Community: Indonesia, Former lead Google DSC @Matana University
+- ⚡ Discord Moderator @Google Developer Community: Indonesia, Former lead Google DSC @Matana University
 
 
 <p align="left">
