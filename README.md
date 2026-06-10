@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Highly motivated and results-oriented backend engineer with 1+ years of experience building scalable and reliable systems using Golang and GCP. Passionate about learning new technologies and contributing to innovative solutions. I am seeking a challenging role where I can leverage my skills to make a significant impact.
+Highly motivated and results-oriented backend engineer with 2+ years of experience building scalable and reliable systems using Golang and GCP. Passionate about learning new technologies and contributing to innovative solutions. I am seeking a challenging role where I can leverage my skills to make a significant impact.
 
 Actively expanding my knowledge of cloud computing (GCP) and system design (Event Architecture) to further enhance my backend engineering capabilities.
 
