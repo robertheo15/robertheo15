@@ -11,13 +11,6 @@ Actively expanding my knowledge of cloud computing (GCP) and system design (Even
 - ⚡ Discord Moderator @Google Developer Community: Indonesia, Former lead Google DSC @Matana University
 
 
-<p align="left">
-<a href="https://github.com/robertheo15">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robertheo15&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robertheo15&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 ### Reach me on
 - <a href="https://www.linkedin.com/in/robertheo-rt/" target="_blank">LinkedIn</a>
 - robertheo.rt@gmail.com
